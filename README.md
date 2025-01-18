@@ -1,4 +1,4 @@
-# 🔐 BruteForce FTP Server
+# 💀BruteForce FTP Server💀
 
 ## 📜Description
 The FTP Brute-Force Tool is a Python-based script designed for penetration testers and cybersecurity enthusiasts  
@@ -56,10 +56,10 @@ Step 5: After Completing the process now u can run script
 - Always check the attack log to track progress and review results after completing an attack.  
 
 ## 🤝Follow the Prompts !
-- Enter the FTP server IP address or domain.  
-- Specify the username for the brute-force attack.  
-- Provide the password file location.  
-- Choose additional options like delay between attempts and the number of threads.  
+1) Enter the FTP server IP address or domain.  
+2) Specify the username for the brute-force attack.  
+3) Provide the password file location.  
+4) Choose additional options like delay between attempts and the number of threads.  
 
 ## 🛠️MODIFICATION ( use own wordlist )
 
